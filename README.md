@@ -29,7 +29,7 @@ O projeto ContaBanco é uma aplicação Java simples que permite aos usuários i
 4. Compile o código-fonte executando o seguinte comando:
 
 ```bash
-javac ContaTerminal.java
+java ContaTerminal.java
 ```
 
 5. Execute o programa usando o seguinte comando:
